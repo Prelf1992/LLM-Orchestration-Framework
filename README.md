@@ -1061,3 +1061,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_6: Build: Update documentation for utility to improve user experience. at 2023-01-04 14:32:09
 * Commit 2023_7: Chore: Clean up tests for better maintainability. at 2023-01-04 17:10:11
 * Commit 2023_8: Perf: Update build config data model for faster execution. at 2023-01-05 14:33:21
+* Commit 2023_9: CI: Refactor code in tests to support new requirements. at 2023-01-05 16:42:53
