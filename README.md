@@ -1166,3 +1166,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_111: Chore: Improve styling of data model to resolve issue. at 2023-03-15 09:43:50
 * Commit 2023_112: Perf: Configure CI for API to align with standards. at 2023-03-16 09:19:02
 * Commit 2023_113: Build: Update documentation for tests to support new requirements. at 2023-03-16 14:06:48
+* Commit 2023_114: CI: Refactor code in workflow to align with standards. at 2023-03-16 13:26:51
