@@ -1232,3 +1232,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_177: Build: Update documentation for API to ensure stability. at 2023-05-11 16:26:43
 * Commit 2023_178: Style: Update documentation for database to resolve issue. at 2023-05-11 17:48:21
 * Commit 2023_179: Build: Add new feature data model to resolve issue. at 2023-05-11 13:24:08
+* Commit 2023_180: Feat: Fix bug in UI to enhance functionality. at 2023-05-11 13:50:19
