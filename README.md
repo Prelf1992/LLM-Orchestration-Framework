@@ -1242,3 +1242,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_187: Fix: Fix bug in script for better readability. at 2023-05-16 10:16:39
 * Commit 2023_188: CI: Optimize performance of module to resolve issue. at 2023-05-16 16:37:04
 * Commit 2023_189: Style: Configure CI for script to resolve issue. at 2023-05-16 11:25:15
+* Commit 2023_190: Chore: Clean up API to align with standards. at 2023-05-17 11:37:47
