@@ -1351,3 +1351,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_296: Style: Fix bug in script to improve user experience. at 2023-08-09 13:26:01
 * Commit 2023_297: Test: Fix bug in workflow to ensure stability. at 2023-08-09 11:46:52
 * Commit 2023_298: Build: Configure CI for script to align with standards. at 2023-08-09 11:11:45
+* Commit 2023_299: Perf: Refactor code in README for better readability. at 2023-08-10 15:45:25
