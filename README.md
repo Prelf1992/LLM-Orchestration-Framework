@@ -1373,3 +1373,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_318: Style: Refactor code in script to improve user experience. at 2023-08-30 14:20:22
 * Commit 2023_319: Build: Add tests for tests to enhance functionality. at 2023-08-30 10:23:53
 * Commit 2023_320: Perf: Add tests for README to enhance functionality. at 2023-08-30 13:53:55
+* Commit 2023_321: CI: Update documentation for module to resolve issue. at 2023-08-30 16:21:02
