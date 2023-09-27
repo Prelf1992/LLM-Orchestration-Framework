@@ -1412,3 +1412,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_357: Feat: Optimize performance of script to enhance functionality. at 2023-09-26 09:58:27
 * Commit 2023_358: Chore: Fix bug in dependencies to support new requirements. at 2023-09-27 09:31:14
 * Commit 2023_359: Perf: Configure CI for script to ensure stability. at 2023-09-27 11:03:56
+* Commit 2023_360: Chore: Update build config API for better readability. at 2023-09-27 10:37:39
