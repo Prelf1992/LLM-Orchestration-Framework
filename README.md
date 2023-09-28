@@ -1414,3 +1414,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_359: Perf: Configure CI for script to ensure stability. at 2023-09-27 11:03:56
 * Commit 2023_360: Chore: Update build config API for better readability. at 2023-09-27 10:37:39
 * Commit 2023_361: Chore: Configure CI for workflow to align with standards. at 2023-09-28 12:04:48
+* Commit 2023_362: Feat: Update documentation for algorithm for better readability. at 2023-09-28 09:51:27
