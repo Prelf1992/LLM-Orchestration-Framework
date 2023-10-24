@@ -1443,3 +1443,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_388: Style: Update build config workflow to resolve issue. at 2023-10-23 17:08:40
 * Commit 2023_389: Fix: Add tests for algorithm to resolve issue. at 2023-10-23 13:04:12
 * Commit 2023_390: Fix: Configure CI for utility for faster execution. at 2023-10-24 10:39:53
+* Commit 2023_391: Chore: Update documentation for dependencies to support new requirements. at 2023-10-24 09:13:07
