@@ -1446,3 +1446,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_391: Chore: Update documentation for dependencies to support new requirements. at 2023-10-24 09:13:07
 * Commit 2023_392: Fix: Update documentation for script for better maintainability. at 2023-10-24 17:50:05
 * Commit 2023_393: Refactor: Update build config data model for faster execution. at 2023-10-25 16:08:08
+* Commit 2023_394: Build: Clean up dependencies for better readability. at 2023-10-25 14:34:27
