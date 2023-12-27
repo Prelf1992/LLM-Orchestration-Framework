@@ -1547,3 +1547,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_492: Feat: Configure CI for workflow for better readability. at 2023-12-27 15:49:54
 * Commit 2023_493: Style: Update build config workflow to support new requirements. at 2023-12-27 17:48:53
 * Commit 2023_494: Perf: Clean up dependencies for better readability. at 2023-12-27 09:00:46
+* Commit 2023_495: Docs: Clean up script to improve user experience. at 2023-12-27 15:36:21
