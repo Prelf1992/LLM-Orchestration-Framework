@@ -566,3 +566,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_11: Refactor: Add tests for README to align with standards. at 2024-01-04 13:42:30
 * Commit 2024_12: Refactor: Update build config tests to resolve issue. at 2024-01-04 11:07:39
 * Commit 2024_13: Feat: Refactor code in dependencies to resolve issue. at 2024-01-04 10:31:34
+* Commit 2024_14: CI: Update documentation for README to align with standards. at 2024-01-10 14:07:19
