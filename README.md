@@ -589,3 +589,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_34: Refactor: Refactor code in component to resolve issue. at 2024-01-25 11:41:26
 * Commit 2024_35: Test: Fix bug in data model to ensure stability. at 2024-01-26 11:49:53
 * Commit 2024_36: Build: Fix bug in dependencies for better maintainability. at 2024-01-26 11:34:07
+* Commit 2024_37: Build: Configure CI for script to align with standards. at 2024-01-26 12:42:38
