@@ -727,3 +727,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_172: Test: Fix bug in component for better readability. at 2024-05-06 10:17:18
 * Commit 2024_173: Test: Configure CI for workflow for better readability. at 2024-05-10 09:04:48
 * Commit 2024_174: Build: Configure CI for API for faster execution. at 2024-05-13 13:33:00
+* Commit 2024_175: Fix: Clean up dependencies for better maintainability. at 2024-05-13 12:17:15
