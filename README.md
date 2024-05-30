@@ -759,3 +759,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_204: Chore: Configure CI for API for better readability. at 2024-05-30 13:16:34
 * Commit 2024_205: Build: Update build config utility for better maintainability. at 2024-05-30 14:33:30
 * Commit 2024_206: Perf: Refactor code in API to ensure stability. at 2024-05-30 14:11:31
+* Commit 2024_207: Refactor: Refactor code in UI to improve user experience. at 2024-05-30 16:11:33
