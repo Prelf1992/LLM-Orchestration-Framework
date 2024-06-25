@@ -799,3 +799,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_244: Build: Update documentation for database to align with standards. at 2024-06-24 14:12:39
 * Commit 2024_245: Build: Update build config script for better readability. at 2024-06-25 16:05:25
 * Commit 2024_246: Refactor: Improve styling of component to improve user experience. at 2024-06-25 13:21:06
+* Commit 2024_247: Chore: Clean up workflow for better readability. at 2024-06-25 11:37:56
