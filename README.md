@@ -1,5 +1,10 @@
 # LLM Orchestration Framework
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/Prelf1992/llm-orchestration-framework?style=social)](https://github.com/Prelf1992/llm-orchestration-framework)
+
+
 A modular framework for orchestrating and managing complex Large Language Model (LLM) workflows, including prompt engineering, model chaining, and evaluation.
 
 ## Features
@@ -48,3 +53,4 @@ We welcome contributions! Please see `CONTRIBUTING.md` for details.
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
+* Commit 1: Feat: Configure CI for data model to enhance functionality. at 2024-11-04 15:08:09
