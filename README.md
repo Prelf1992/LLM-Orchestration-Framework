@@ -157,3 +157,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 102: Test: Improve styling of README to improve user experience. at 2025-01-31 13:47:19
 * Commit 103: Refactor: Update documentation for tests to align with standards. at 2025-01-31 11:32:18
 * Commit 104: Build: Update build config UI for better readability. at 2025-02-03 14:01:38
+* Commit 105: Style: Add tests for script to improve user experience. at 2025-02-03 13:04:39
