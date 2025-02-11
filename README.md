@@ -169,3 +169,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 114: Refactor: Improve styling of database to enhance functionality. at 2025-02-10 15:56:09
 * Commit 115: CI: Fix bug in database for better maintainability. at 2025-02-10 17:45:55
 * Commit 116: Docs: Optimize performance of UI to align with standards. at 2025-02-11 17:58:28
+* Commit 117: Refactor: Configure CI for script to align with standards. at 2025-02-11 12:07:11
