@@ -172,3 +172,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 117: Refactor: Configure CI for script to align with standards. at 2025-02-11 12:07:11
 * Commit 118: Refactor: Optimize performance of tests for better readability. at 2025-02-13 10:03:21
 * Commit 119: Refactor: Improve styling of database for better maintainability. at 2025-02-13 13:52:58
+* Commit 120: Feat: Clean up database to enhance functionality. at 2025-02-13 10:29:49
