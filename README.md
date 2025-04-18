@@ -230,3 +230,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 175: Docs: Update build config component to enhance functionality. at 2025-04-17 17:26:46
 * Commit 176: Refactor: Optimize performance of dependencies for better maintainability. at 2025-04-17 11:32:06
 * Commit 177: Feat: Configure CI for UI for better readability. at 2025-04-17 17:05:55
+* Commit 178: Fix: Fix bug in README for better readability. at 2025-04-18 13:46:22
