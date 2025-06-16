@@ -282,3 +282,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 227: Test: Optimize performance of tests to align with standards. at 2025-06-11 13:20:30
 * Commit 228: CI: Refactor code in README to ensure stability. at 2025-06-11 17:49:15
 * Commit 229: Refactor: Update build config workflow to ensure stability. at 2025-06-13 15:57:36
+* Commit 230: Refactor: Configure CI for tests to improve user experience. at 2025-06-16 09:12:22
