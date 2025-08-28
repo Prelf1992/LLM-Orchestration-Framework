@@ -350,3 +350,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 295: Docs: Improve styling of README to resolve issue. at 2025-08-27 11:27:00
 * Commit 296: Perf: Refactor code in tests to enhance functionality. at 2025-08-27 10:27:35
 * Commit 297: Refactor: Fix bug in module to align with standards. at 2025-08-28 14:25:27
+* Commit 298: Fix: Refactor code in tests to enhance functionality. at 2025-08-28 14:06:04
