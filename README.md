@@ -351,3 +351,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 296: Perf: Refactor code in tests to enhance functionality. at 2025-08-27 10:27:35
 * Commit 297: Refactor: Fix bug in module to align with standards. at 2025-08-28 14:25:27
 * Commit 298: Fix: Refactor code in tests to enhance functionality. at 2025-08-28 14:06:04
+* Commit 299: Refactor: Clean up API to align with standards. at 2025-08-28 16:01:47
