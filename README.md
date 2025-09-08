@@ -364,3 +364,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 309: Feat: Refactor code in README for better maintainability. at 2025-09-05 09:36:21
 * Commit 310: Test: Clean up README to support new requirements. at 2025-09-05 11:38:30
 * Commit 311: CI: Add new feature utility to resolve issue. at 2025-09-08 11:53:18
+* Commit 312: Chore: Refactor code in script to support new requirements. at 2025-09-08 11:43:23
