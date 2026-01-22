@@ -485,3 +485,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 430: Refactor: Fix bug in README for faster execution. at 2026-01-16 14:31:07
 * Commit 431: CI: Fix bug in tests to ensure stability. at 2026-01-21 10:42:37
 * Commit 432: Fix: Configure CI for algorithm to align with standards. at 2026-01-22 13:53:48
+* Commit 433: Docs: Fix bug in API for better readability. at 2026-01-22 12:38:50
