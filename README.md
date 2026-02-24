@@ -1624,3 +1624,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2026_69: Build: Improve styling of script to resolve issue. at 2026-02-23 14:02:09
 * Commit 2026_70: Build: Update build config tests for better maintainability. at 2026-02-23 14:25:55
 * Commit 2026_71: Feat: Clean up tests to support new requirements. at 2026-02-23 17:54:43
+* Commit 2026_72: Feat: Clean up script for better readability. at 2026-02-24 16:20:59
