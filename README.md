@@ -1674,3 +1674,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2026_119: CI: Update documentation for README to align with standards. at 2026-04-06 11:29:39
 * Commit 2026_120: Style: Refactor code in script to ensure stability. at 2026-04-06 15:24:15
 * Commit 2026_121: Build: Add new feature component to improve user experience. at 2026-04-06 10:17:59
+* Commit 2026_122: Fix: Refactor code in README for better readability. at 2026-04-08 13:12:29
